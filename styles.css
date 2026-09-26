@@ -1,4 +1,20 @@
-
 body {
-    background-color: #7fa3dc;
+    background-color: #eef4fb;
+    color: #243447;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #123b63;
+    border-bottom: 3px solid #2c78a8;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: #17618a;
+    margin-top: 30px;
 }
