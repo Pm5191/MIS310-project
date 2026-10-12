@@ -18,3 +18,9 @@ h2 {
     color: #17618a;
     margin-top: 30px;
 }
+
+.navigation {
+    display: flex;
+    gap: 20px;
+    
+}
